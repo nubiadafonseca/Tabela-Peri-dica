@@ -1,0 +1,80 @@
+table{
+  
+  margin-left: auto;
+  margin-right: auto;
+  color: aliceblue;
+  
+}
+td{
+  display: table-cell;
+  vertical-align: inherit;
+  unicode-bidi: isolate;
+  border-radius: 4px;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  padding: 20px;
+  font-size: 35px;
+  color: rgb(19, 2, 2);
+  
+}
+h3{
+  margin: 0;
+  font-size: 20px;
+  
+}
+
+h4{
+  margin: 0;
+  font-size: 15px;
+
+}
+
+h5{
+  margin-left: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+}
+.azul{
+  background-color: rgb(62, 62, 252);
+  
+ 
+}
+
+.amarelo{
+  background-color: rgb(193, 188, 34);
+}
+
+.roxo{
+  background-color: rgb(141, 49, 226);
+}
+
+.rosa{
+  background-color: rgb(246, 120, 197);
+}
+
+.verde{
+  background-color: rgb(24, 188, 114)
+}
+
+.azulclaro{
+  background-color: rgb(56, 189, 251);
+}
+
+.laranja{
+  background-color: rgb(241, 129, 23);
+}
+
+.vermelhoclaro{
+  background-color: rgb(243, 28, 28);
+}
+
+.vermelhoescuro{
+  background-color: rgb(135, 8, 8);
+}
+.vazio{
+  padding: 35px;
+}
